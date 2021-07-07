@@ -1,8 +1,3 @@
----
-name: Articles on posture recognition
-title: ''
-authors: ''
-about: 
 ## TL;DR
 
 ### Article Link
@@ -26,9 +21,3 @@ import pandas as pd
 * 
 
 ## Comments/ Questions
-labels: ''
-assignees: ''
-
----
-
-
