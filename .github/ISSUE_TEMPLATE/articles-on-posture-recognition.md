@@ -1,7 +1,8 @@
 ---
 name: Articles on posture recognition
-about: Describe this issue template's purpose here.
 title: ''
+authors: ''
+about: Describe this article's main points here.
 labels: ''
 assignees: ''
 
