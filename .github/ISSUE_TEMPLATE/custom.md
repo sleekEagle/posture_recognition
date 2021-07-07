@@ -1,8 +1,8 @@
 ---
-Name: ''
+Name: 'Title of the paper'
 Authors: ''
 year: ''
-About: ''
+About: 'Summary of the paper'
 University/organization: ''
 
 ---
