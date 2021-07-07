@@ -1,8 +1,8 @@
 ---
-Title: ''
+Name: ''
 Authors: ''
 year: ''
-summary: ''
+About: ''
 University/organization: ''
 
 ---
